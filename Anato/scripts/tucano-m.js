@@ -4,25 +4,25 @@ document.addEventListener("DOMContentLoaded", function() {
   const question = document.getElementById('question');
   const nextButton = document.getElementById('nextButton');
   let structures = [
-    "Extensor carpo radial",
-  "Ancônio",
-  "Dorsal da escápula",
-  "Latíssimo do dorso",
-  "Longuíssimo do dorso",
-  "Coccigeoilíaco",
-  "Músculo reto anterior",
-  "Semimembranáceo",
-  "Perôneo",
-  "Músculo intermandibular",
-  "Coracoradial",
-  "Peitoral",
-  "Cutâneo do peito",
-  "Reto abdominal",
+    "M. Complexo",
+  "Depressor da mandíbula",
+  "M. Biventer cervical",
+  "M. Peitoral torácico - corte A",
+  "M. Peitoral torácico - corte B",
+  "M. Bíceps",
+  "M. Extensor carpoulnar",
+  "Tríceps braquial",
+  "Gastrocnêmio - corte A",
+  "Gastrocnêmio - corte B",
+  "M. Perôneo",
+  "Deltóide",
+  "Detóide maior",
+  "Rombóide profundo",
+  "M. Redondo maior",
+  "Rombóide superficial",
   "Oblíquo externo",
-  "Crural",
-  "Adutor magno",
-  "Sartório",
-  "Gastrocnêmio"
+  "M. Íliotibial",
+  "M. Fibular longo"
   ];
   
   const totalQuestions = structures.length; // Total de perguntas
